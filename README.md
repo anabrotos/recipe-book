@@ -2,3 +2,4 @@
 
 Olá, bem vinto ao livro de receitas!
 
+- Strogonoff de Frango
